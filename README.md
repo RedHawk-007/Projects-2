@@ -1,4 +1,4 @@
-# Projects-2
+# Projects-2- Consists of 2 Projects 
    Drug Supply Chain Management using Blockchain Hyperledger  
    -The project revolves around creating a decentralized tamper free ledger such that illicit and counterfeit frugs cannot be produced and can be detected and stopped through means
 
